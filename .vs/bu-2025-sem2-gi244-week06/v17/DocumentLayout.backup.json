@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|d:\\1670704079 chai\\bu-2025-sem2-gi244-week06\\assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|d:\\1670704079 chai\\bu-2025-sem2-gi244-week06\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|d:\\1670704079 chai\\bu-2025-sem2-gi244-week06\\assets\\scripts\\destroyoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|d:\\1670704079 chai\\bu-2025-sem2-gi244-week06\\assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|d:\\1670704079 chai\\bu-2025-sem2-gi244-week06\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:31:31.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerExam02.cs",
+              "DocumentMoniker": "D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "ToolTip": "D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:31:08.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestroyOutOfBound.cs",
+              "DocumentMoniker": "D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\Assets\\Scripts\\DestroyOutOfBound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBound.cs",
+              "ToolTip": "D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\Assets\\Scripts\\DestroyOutOfBound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:23:48.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\Assets\\Scripts\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameState.cs",
+              "ToolTip": "D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\Assets\\Scripts\\GameState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:22:18.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WaveController.cs",
+              "DocumentMoniker": "D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\Assets\\Scripts\\WaveController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveController.cs",
+              "ToolTip": "D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\Assets\\Scripts\\WaveController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:15:19.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

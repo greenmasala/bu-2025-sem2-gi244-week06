@@ -9,6 +9,7 @@ public class GameState : MonoBehaviour
         if (other.CompareTag("Animal"))
         {
             hitCount++;
+            Debug.Log(hitCount);
             if (hitCount >= 5)
             {
                 Debug.Log("Game Over!");
