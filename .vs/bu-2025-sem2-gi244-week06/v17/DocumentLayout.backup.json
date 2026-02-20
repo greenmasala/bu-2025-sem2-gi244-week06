@@ -10,7 +10,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Downloads\\CameraFollowerV2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|d:\\1670704079 chai\\bu-2025-sem2-gi244-week06\\assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5B25D09-21EE-AA70-2545-ADC137B27AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -59,8 +59,7 @@
               "ToolTip": "C:\\Users\\Administrator\\Downloads\\CameraFollowerV2.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T03:33:26.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T03:33:26.389Z"
             },
             {
               "$type": "Document",
@@ -70,7 +69,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\CameraControlExam06.cs",
               "ToolTip": "D:\\1670704079 Chai\\bu-2025-sem2-gi244-week06\\Assets\\Scripts\\Exam\\CameraControlExam06.cs",
               "RelativeToolTip": "Assets\\Scripts\\Exam\\CameraControlExam06.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T03:15:19.932Z",
               "EditorCaption": ""
@@ -85,8 +84,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwDkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T03:08:48.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T03:08:48.616Z"
             },
             {
               "$type": "Document",

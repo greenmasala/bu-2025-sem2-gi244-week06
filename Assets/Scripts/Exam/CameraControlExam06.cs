@@ -19,27 +19,10 @@ public class CameraControlExam06 : MonoBehaviour
         Vector3 player2Pos = player2.transform.position;
 
         targetCamera.transform.position = new Vector3 (player1Pos.x, targetCamera.transform.position.y, player2Pos.z);
-        float cameraOffsetZ = player2Pos.z - player1Pos.z;
-        float cameraOffsetX = player1Pos.x - player2Pos.x;
-        float cameraSize = cameraOffsetX + cameraOffsetZ;
-
-        if (player2Pos.z <= 10)
-        {
-            cameraSize = 10;
-        }
-        else if (player2Pos.z <= 0 || player2Pos.z > 10)
-        {
-            targetCamera.orthographicSize = cameraSize + offset;
-        }
-        if (player1Pos.x < 10)
-        {
-            cameraSize = 10;
-        }
-        else if (player1Pos.x < -10 || player2Pos.x > 10)
-        {
-            targetCamera.orthographicSize = cameraSize + offset;
-        }
-        
+        float cameraOffsetZ = (player2Pos.z - player1Pos.z) * offset;
+        float cameraOffsetX = (player1Pos.x - player2Pos.x) * offset;
+       
+        targetCamera.orthographicSize = Mathf.Max(Mathf.Abs(cameraOffsetX), Mathf.Abs(cameraOffsetZ));
 
         //targetCamera.orthographicSize = player2Pos.z + offset;
         // Student code ...
